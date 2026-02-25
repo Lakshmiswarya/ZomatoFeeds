@@ -209,6 +209,36 @@ elif option == "Analytics":
                 </div>
             ''', unsafe_allow_html=True)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 "It's delicious, and i am happy to have this with my love and friends"
 
 
